@@ -11,7 +11,7 @@ I aim to analyze customer behavior patterns to identify which customers are like
 - Perform **data preparation** and handle missing or inconsistent values.
 - Conduct **Exploratory Data Analysis (EDA)** to understand data patterns and relationships.
 - Apply **feature engineering** for categorical encoding, scaling, and transformation.
-- Build and compare **Supervised Learning models** (e.g., Decision Tree, Random Forest, XGBoost).
+- Build and compare **Supervised Learning models** (Decision Tree, Random Forest, XGBoost).
 - Evaluate models using **Accuracy, Precision, Recall, F1-score, and AUC-ROC**.
 - Interpret model results and provide actionable **business insights**.
 
